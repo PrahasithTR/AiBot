@@ -3,9 +3,9 @@ Nf Tech Test
 
 This a sample code for Ai voice recognition bot
 Libraries Required (Windows):
-pip install PyAudio - for python to play record audio
-pip install pyttsx3-  to convert text to speech.
-pip install speechRecognition- to take commands
+1.pip install PyAudio - for python to play record audio
+2.pip install pyttsx3-  to convert text to speech.
+3.pip install speechRecognition- to take commands
 
 
 Tasks perfomed:
